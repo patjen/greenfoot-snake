@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SnakeSegment
+comment1.params=previous
+comment1.target=SnakeSegment(SnakeSegment)
+comment2.params=
+comment2.target=void\ move()
+numComments=3
